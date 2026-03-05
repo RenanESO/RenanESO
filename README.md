@@ -76,15 +76,6 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 
 ---
 
-## 🚀 Projetos em Destaque
-
-| Projeto | Descrição |
-|---|---|
-| 📘 [Trabalho_TCC_v3](https://github.com/RenanESO/Trabalho_TCC_v3) | Trabalho de Conclusão de Curso |
-| 📗 [Trabalho_Redes](https://github.com/RenanESO/Trabalho_Redes) | Trabalho de Redes Sockets |
-
----
-
 ## 📬 Contato
 
 <p align="center">
