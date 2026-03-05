@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Renan%20Evilásio&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=white&desc=Desenvolvedor%20ERP%20%7C%20Delphi%20%7C%20Python%20%7C%20Laravel&descAlignY=58&descSize=18&descColor=a0c4ff" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Desenvolvedor+ERP+%7C+Delphi+XE2%2B;+5%2B+anos+de+experiência+em+Delphi;Estudante+de+Ciência+da+Computação+%40+IFMG;Sempre+aprendendo+novas+tecnologias+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:1a1a2e,100:16213e&height=250&section=header&text=Renan%20Evilásio&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Desenvolvedor%20ERP%20|%20Delphi%20|%20Python%20|%20Laravel&descAlignY=60&descSize=20&descColor=a0c4ff" />
 </p>
 
 <p align="center">
@@ -38,7 +34,7 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 ## 🛠️ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,laravel,mysql,c,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,laravel,mysql,git,github&theme=dark" />
 </p>
 
 | Tecnologia | Nível |
@@ -53,10 +49,10 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RenanESO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenanESO&layout=compact&langs_count=7&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RenanESO&theme=tokyonight" />
