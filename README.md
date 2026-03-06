@@ -9,9 +9,6 @@
   <a href="https://github.com/RenanESO">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/483370">
-    <img src="https://img.shields.io/badge/Beecrowd-1E90FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
   <img src="https://img.shields.io/badge/status-disponível-brightgreen?style=for-the-badge" />
 </p>
 
