@@ -31,16 +31,23 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 ## 🛠️ Stack & Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,laravel,mysql,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=delphi,vscode,python,php,laravel,javascript,html,css,mysql,git,github,postman,docker&theme=dark" />
 </p>
 
 | Tecnologia | Nível |
 |---|---|
 | 🔵 Delphi (XE2+) / FireMonkey | ⭐⭐⭐⭐⭐ Especialista |
-| 🟠 DevExpress / ACBr | ⭐⭐⭐⭐⭐ Especialista |
+| 🟣 DevExpress / ACBr | ⭐⭐⭐⭐⭐ Especialista |
+| 🧰 VS Code | ⭐⭐⭐⭐ Avançado |
 | 🐬 MySQL | ⭐⭐⭐⭐ Avançado |
-| 🐍 Python | ⭐⭐⭐ Intermediário |
+| 🐘 PHP | ⭐⭐⭐ Intermediário |
 | 🔴 Laravel | ⭐⭐⭐ Intermediário |
+| 🐍 Python | ⭐⭐⭐ Intermediário |
+| 🟨 JavaScript | ⭐⭐⭐ Intermediário |
+| 🌐 HTML | ⭐⭐⭐ Intermediário |
+| 🎨 CSS | ⭐⭐⭐ Intermediário |
+| 🧪 Postman | ⭐⭐⭐ Intermediário |
+| 🐳 Docker | ⭐⭐ Básico |
 
 ---
 
