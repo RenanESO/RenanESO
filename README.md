@@ -21,7 +21,8 @@
 Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Campus Formiga** e **Desenvolvedor Delphi Pleno** com mais de **5 anos de experiência** (XE2+).
 
 - 🏢 Atualmente trabalhando na **S.E. Sistemas** como Desenvolvedor Delphi
-- 🎓 Cursando **Ciência da Computação** no IFMG – Campus Formiga
+- 🎓 Bacharelado **Ciência da Computação** no IFMG – Campus Formiga
+- 🎓 Cursando **Pós-Graduação Lato Sensu em Análise Estratégica de Dados** no IFMG – Campus Formiga
 - 💡 Apaixonado por **código limpo**, bem identado e comentado
 - 🌱 Sempre aprendendo novas tecnologias
 - 🤝 Aberto a colaborações e novos projetos
@@ -42,7 +43,7 @@ Olá! Eu sou o **Renan**, estudante de **Ciência da Computação no IFMG – Ca
 | 🐬 MySQL | ⭐⭐⭐⭐ Avançado |
 | 🐘 PHP | ⭐⭐⭐ Intermediário |
 | 🔴 Laravel | ⭐⭐⭐ Intermediário |
-| 🐍 Python | ⭐⭐⭐ Intermediário |
+| 🐍 Python | ⭐⭐⭐⭐ Avançado |
 | 🟨 JavaScript | ⭐⭐⭐ Intermediário |
 | 🌐 HTML | ⭐⭐⭐ Intermediário |
 | 🎨 CSS | ⭐⭐⭐ Intermediário |
